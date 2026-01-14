@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# Local/Temp files
+*.log
+*.tmp
+*.pdf
+*.docx
+*.zip
+!requirements.txt
+!README.md
+!app.py
