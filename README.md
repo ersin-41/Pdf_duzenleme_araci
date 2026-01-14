@@ -2,7 +2,9 @@
 
 PDF Master Tools, Python ve Streamlit kullanılarak geliştirilmiş, modern ve kullanıcı dostu bir PDF düzenleme ve işleme aracıdır. Tüm işlemleri bellekte (RAM) gerçekleştirerek hızlı ve güvenli bir deneyim sunar.
 
-![Uygulama Ekran Görüntüsü](https://via.placeholder.com/800x400?text=PDF+Master+Tools+Arayuz)
+![Ekran görüntüsü 2026-01-14 205513](https://github.com/user-attachments/assets/d3592f27-8e81-4c22-bbda-13ca3504ec2a)
+
+## Canlı Link : https://pdfduzenlemearaci-eufobms5pyfbsbbcqwhdwk.streamlit.app/
 
 ## 🚀 Özellikler
 
